@@ -17,10 +17,10 @@ EDA of historical sales data for 45 Walmart stores located in different regions 
 
 Assignments on :
 
-Bootstrap sampling
+     Bootstrap sampling
 
-Linear Regression
+     Linear Regression
 
-Logisc Regression
+     Logisc Regression
 
-Naive Bayes
+     Naive Bayes
