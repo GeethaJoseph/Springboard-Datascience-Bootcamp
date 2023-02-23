@@ -1,7 +1,7 @@
-# Capstone 1
+## Capstone Project 1
 
 
-# Capstone 2
+## Capstone Project 2
 
 
-# Mini Projects
+## Mini Projects
